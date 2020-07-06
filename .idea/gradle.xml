@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/A simple calculator" />
             <option value="$PROJECT_DIR$/Problems/Assignments" />
             <option value="$PROJECT_DIR$/Problems/Bus tour" />
             <option value="$PROJECT_DIR$/Problems/Calculating factorials" />
@@ -29,6 +30,7 @@
             <option value="$PROJECT_DIR$/Problems/First, second, third" />
             <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
             <option value="$PROJECT_DIR$/Problems/From 0 to 4" />
+            <option value="$PROJECT_DIR$/Problems/From string to a number" />
             <option value="$PROJECT_DIR$/Problems/Grades" />
             <option value="$PROJECT_DIR$/Problems/Groundhogs at a party" />
             <option value="$PROJECT_DIR$/Problems/Guest list of a hotel" />
@@ -44,6 +46,7 @@
             <option value="$PROJECT_DIR$/Problems/Reading integer numbers" />
             <option value="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'" />
             <option value="$PROJECT_DIR$/Problems/Sum of numbers in the range" />
+            <option value="$PROJECT_DIR$/Problems/Test learners" />
             <option value="$PROJECT_DIR$/Problems/The Hello World program" />
             <option value="$PROJECT_DIR$/Problems/The count of numbers divisible by N" />
             <option value="$PROJECT_DIR$/Problems/The countdown" />
